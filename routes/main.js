@@ -11,11 +11,11 @@ router.get('/api', (req, res) => {
     config = {
         status: true,
         result: {
-            author : 'Zhirrr',
-            github: 'Zhirrr',
-            instagram: 'zhirr_ajalah',
-            youtube: 'Gak Punya',
-            docs: 'https://github.com/Zhirrr/islamic-rest-api-indonesian-v2'
+            author : 'Adii',
+            github: 'Adiixyz',
+            instagram: 'adiixyz5',
+            youtube: 'Adiixyz',
+            docs: 'https://github.com/Adiixyz/islamic-rest-api-indonesian-v2'
         }
     }
     res.json(config)
